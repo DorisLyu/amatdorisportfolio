@@ -12,27 +12,27 @@
 <img src="images/cat.png?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
+[Project 3 Ripped effect](/pdf/sample_presentation.pdf)
+<img src="images/1.png?raw=true"/>
+
+---
+[Project 4 Double Exposure](/pdf/sample_presentation.pdf)
+<img src="images/3.png?raw=true"/>
+
+---
+[Project 5 Cool Retro Collage](/pdf/sample_presentation.pdf)
+<img src="images/fuguuuu.png?raw=true"/>
+
+---
+[Project 6 3D Pop Out effect](/pdf/sample_presentation.pdf)
+<img src="images/3D.jpeg?raw=true"/>
+
+---
+[Project 7 Title](/pdf/sample_presentation.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-[Project 3 Title](http://example.com/)
+[Project 8 Title](http://example.com/)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
